@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CruSeo
+- 👋 Hi, I’m @CruSeo A.Burak Soyak
 - 👀 I’m interested in AWS, Cloud, ElectronJs
 - 🌱 I’m currently learning VanillaJs,
 - 📫 How to reach me @email.
